@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/pythonkurs/swc_data-2015-11-30"
-workshop_site   : "http://pythonkurs.github.io/swc_data-2015-11-30/"
+workshop_repo   : "https://github.com/pythonkurs/2015-11-30-swc_data"
+workshop_site   : "http://pythonkurs.github.io/2015-11-30-swc_data/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
